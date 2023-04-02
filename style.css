@@ -134,6 +134,7 @@ body{
     box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.15);
     border-radius: 20px;
     z-index: 1;
+
 }
 
  .game{
@@ -141,8 +142,7 @@ body{
     position: relative;
     top: 0;
     left: 0;
-    /* display: none; */
-    /* display: block; */
+    /* transition: .5s; */
 } 
 .game.game_hide{
   display: none;
